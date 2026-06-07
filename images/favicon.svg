@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Basketball favicon">
+  <circle cx="32" cy="32" r="30" fill="#f57c00"/>
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#111" stroke-width="3"/>
+  <path d="M2 32h60" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 2c-10 9-16 20-16 30s6 21 16 30" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 2c10 9 16 20 16 30s-6 21-16 30" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <path d="M12 13c7 5 14 10 20 19 6-9 13-14 20-19" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <path d="M12 51c7-5 14-10 20-19 6 9 13 14 20 19" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+</svg>
