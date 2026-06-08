@@ -19,7 +19,7 @@ redirect_from:
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
-Hello🤗, I am a 2nd-year Direct PhD student in Research Center for Social Computing and Interactive Robotics (SCIR), at Harbin Institute of Technology (HIT, China), supervised by Professor [Che Wanxiang](https://chewanxiang.com/en/).
+Hello🤗, I am a 2nd-year Direct PhD student in Research Center for Social Computing and Interactive Robotics (SCIR), at Harbin Institute of Technology (HIT, China), supervised by Professor [Wanxiang Che](https://chewanxiang.com/en/).
 My main research interests are efficient inference in large language models and optimization of long context. 
 Recently, my research interests have shifted primarily to agent memory. 
 If you are interested in my research or potential collaborations, please feel free to contact me at ✉️[yijunliu@ir.hit.edu.cn](mailto:yijunliu@ir.hit.edu.cn).
