@@ -1,3 +1,4 @@
 _site/
 push.sh
 .DS_Store
+generate_basketball_favicons.py
