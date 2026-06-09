@@ -67,9 +67,16 @@ If you like the template of this homepage, welcome to star and fork Yi Ren’s o
 ### 🚄 Efficient LLMs
 [Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via Pseudo Query](https://aclanthology.org/2025.emnlp-main.1732/), Yixuan Wang\*, Shiyu Ji\*, **Yijun Liu**, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che. **[EMNLP 2025]** [[Code]](https://github.com/noforit/Lookahead_Q-Cache)
 
+[Seer Self-Consistency: Advance Budget Estimation for Adaptive Test-Time Scaling](https://arxiv.org/abs/2511.09345), Shiyu Ji\*, Yixuan Wang\*, **Yijun Liu**, Qingfu Zhu, Wanxiang Che. **[ACL 2026 findings]** [[Code]](https://github.com/noforit/SeerSC)
+
+[CAMERA: Multi-Matrix Joint Compression for MoE Models via Micro-Expert Redundancy Analysis](https://ojs.aaai.org/index.php/AAAI/article/view/39957), Yuzhuang Xu, Xu Han, Yuanchi Zhang, Yixuan Wang, **Yijun Liu**, Shiyu Ji, Qingfu Zhu, Wanxiang Che. **[AAAI 2026]** [[Code]](https://github.com/xuyuzhuang11/CAMERA)
+
 [Make Some Noise: Unlocking Language Model Parallel Inference Capability through Noisy Training](https://aclanthology.org/2024.emnlp-main.718/), Yixuan Wang, Xianzhen Luo, Fuxuan Wei, **Yijun Liu**, Qingfu Zhu, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che. **[EMNLP 2024]** 
 
+[EchoKV: Efficient KV Cache Compression via Similarity-Based Reconstruction](https://arxiv.org/abs/2603.22910), Shiyu Ji\*, Yixuan Wang\*, **Yijun Liu**, Qingfu Zhu, Wanxiang Che. **[EMNLP 2025]** [[Code]](https://github.com/noforit/EchoKV)
+
 [Think Before You Accept: Semantic Reflective Verification for Faster Speculative Decoding](https://arxiv.org/abs/2505.18629), Yixuan Wang, **Yijun Liu**, Shiyu ji, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che. 
+
 
 
 ### 🌎 Multimodal Understanding
